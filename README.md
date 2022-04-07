@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head> TARGET SARKARI JOB
+</head>
+<body>
+<h2 align="center"> TARGET SARKARI JOB </h2>
+<div style="background-color:Green; color:white; padding:20px;">
+<p> About the website </p>
+</div>
+<p> this website started only for those student who are really want to get job and they are serious student.<br/>
+here study material will available and exam notification like Railway, SSC, Police, Bank......etc and its application form, admit card, result, answer key, everything available that is very important and upcoming exam notification also available that is not available in other websites
+</p>
+<div style="background-color:green; color:white; padding:20px;"> About us </div>
+<p> Hello everyone I am the owner of this website <br/> my name is AKASH YADAV <br/> I am a web developer and graphic designer i will show you everthing that is more important for a serious students<br/> thank you
+<img src="alt.jpg/001" alt="" />
+</p>
+</body>
+</html>
